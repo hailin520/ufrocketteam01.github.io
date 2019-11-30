@@ -218,9 +218,7 @@ max-width: 25%;
 .history .carousel-indicators
 {
     bottom: -60px;
-    margin-right: -100px;
-    margin-left:550px;
-    border-radius: 1px;
+  
 }
 
 .border-bottom
